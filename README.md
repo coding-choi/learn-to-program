@@ -55,6 +55,10 @@ This list aims to be a curated set of high quality educational resources. The co
 **Free** Platform for classes on Design, Marketing, Startup and Code. Learn the future of the web.
 *(RethinkDB, SailsJs, NodeJS, Git, Startup Class, etc)*
 
+#### [Free Code Camp](http://www.freecodecamp.com/)
+**Free** Program with a focus on teaching javascript - unique in that after getting through the more advanced lessons/challenges, the site offers actual coding experience with non-profit organizations.
+*(HTML, CSS, Javascript, JQuery, Git, AngularJS, etc)*
+
 ## Intermediate
 
 #### Khan Academy [Computer Programming](https://www.khanacademy.org/computing/computer-programming), [Computer Science](https://www.khanacademy.org/computing/computer-science)
